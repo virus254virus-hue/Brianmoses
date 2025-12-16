@@ -4,8 +4,6 @@
 </p>
 
 
-<𝚒𝚖𝚐 src="https://files.catbox.moe/se5e6e.jpg" width="100%" height="auto">
-  </a>
 
 
 
