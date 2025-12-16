@@ -46,6 +46,6 @@ SESSION_ID=
 
 <!-- Action Buttons -->
 <p align="center">
-  <a href="https://main.bwmxmd.online/scanner" target="_blank" rel="noopener noreferrer">
-    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_virus_SESSION-000000?style=for-the-badge&logo=quantum&logoColor=white&color=skyblue" width="260" height="50"/>
+  <a href="https://main.virus.online/scanner" target="_blank" rel="noopener noreferrer">
+    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_virus_SESSION-000000?style=for-the-badge&logo=quantum&logoColor=blue&color=skypink" width="270" height="60"/>
   </a>
