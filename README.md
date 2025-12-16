@@ -33,8 +33,7 @@
 </p>
 
 
-# Brianmoses
-𝙏𝙃𝙀 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇 𝘾𝙔𝙋𝙃𝙀𝙍 𝙓 𝙍𝙀𝙋𝙊𝙎𝙄𝙏𝙊𝙍𝙔.
+# VIRUS THE GAMER OFFICIAL ☄️.
 SESSION_ID=
 
 
@@ -46,6 +45,6 @@ SESSION_ID=
 
 <!-- Action Buttons -->
 <p align="center">
-  <a href="https://main.brianmoses.online/scanner" target="_blank" rel="noopener noreferrer">
+  <a href="https://main.cypher x.online/scanner" target="_blank" rel="noopener noreferrer">
     <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_virus_SESSION-000000?style=for-the-badge&logo=quantum&logoColor=blue&color=skypink" width="270" height="60"/>
   </a>
