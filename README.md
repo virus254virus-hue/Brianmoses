@@ -34,7 +34,7 @@
 
 
 # VIRUS THE GAMER OFFICIAL ☄️.
-SESSION_ID=
+
 
 
 
