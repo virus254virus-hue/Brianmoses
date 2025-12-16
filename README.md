@@ -43,6 +43,6 @@ SESSION_ID=
 
 <!-- Action Buttons -->
 <p align="center">
-  <a href="https://main.CARL24TECH - Buddy XTR.online"
+  <a href="https://main.CARL24TECH - Buddy XTR.online/https://files.catbox.moe/se5e6e.jpg"
     <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_QUANTUM_SESSION-000000?style=for-the-badge&logo=quantum&logoColor=yellow&color=skyblack" width="270" height="60"/>
   </a>
